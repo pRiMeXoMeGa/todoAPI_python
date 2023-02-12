@@ -1,0 +1,26 @@
+For creating venv ----> "py -3 -m venv <venv_name>"
+
+For Activating venv in terminal -point to "activate.bat" file----> "venv\Scripts\activate.bat"
+
+for installing fastapi ----> "pip install fastapi[all]"
+
+to run the fastapi python project ----> "uvicorn app.main:app --reload"
+
+postgresql database driver ----> "pip install psycopg2"
+
+open git bash terminal ----> "openssl rand -hex 32"
+
+sqlalchemy ORM ----> "pip install SQLALchemy"
+
+installing jose library ----> pip install "python-jose[cryptography]"
+
+installing passlib bcrypt ----> pip install "passlib[bcrypt]"
+
+
+
+
+after creating simple todo list 
+1. introduce categories ----> like - finances, health, personal, jobs, etc Icons
+2. co-todolist -- for 2 or more users, using todolist combined.
+3. Representation of sub dividing a problem/goals into various sub problem/goals 
+using graph or tree.
